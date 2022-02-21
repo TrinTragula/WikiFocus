@@ -1,7 +1,7 @@
 {
   "name": "WikiFocus",
   "version": "1.0.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description": "Chrome extension to focus the search bar when you open Wikipedia, so that you can type on it without having to click",
   "homepage_url": "https://github.com/TrinTragula/WikiFocus",
   "icons": {
@@ -12,7 +12,7 @@
     "128": "icons/icon-128.png",
     "256": "icons/icon-256.png"
   },
-  "permissions": [
+  "host_permissions": [
     "https://*.wikipedia.org/*",
     "http://*.wikipedia.org/*"
   ],
@@ -24,7 +24,8 @@
       ],
       "js": [
         "src/inject/inject.js"
-      ]
+      ],
+      "run_at": "document_end"
     }
   ]
 }
