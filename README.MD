@@ -1,6 +1,6 @@
 # WikiFocus
 
-![WikiFocus logo](icons/icon-256.png)
+![WikiFocus logo](icons/Icon-256.png)
 
 **WikiFocus** is a Chrome extension that focuses the search bar when you open Wikipedia, so that you can start searching without having to worry about manually clicking on it every time.
 
