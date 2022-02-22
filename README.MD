@@ -6,7 +6,7 @@
 
 ## Installation
 
-Download it from the Chrome Web Store (SOON).
+[Download it from the Chrome Web Store](https://chrome.google.com/webstore/detail/wikifocus/bjlkhkpoamjljbfkgcladajolbhcpild).
 
 If you don't want to use the Chrome Web Store, you can still download the code and install the extension in your browser:
 
